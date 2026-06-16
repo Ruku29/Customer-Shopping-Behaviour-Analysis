@@ -44,10 +44,3 @@ FROM beh
 GROUP BY item_purchased
 ORDER BY discount_rate DESC
 LIMIT 5;
-
-# 7. Segment customers into New, Returning, and Loyal based ont their total
-# number of previous purchases, and show the count of each segment . 
-
-
-
-# 8. What are the top 3 most purchased products within each category ? 
